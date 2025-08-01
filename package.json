@@ -13,6 +13,8 @@
     "@strapi/plugin-cloud": "4.20.0",
     "@strapi/plugin-i18n": "4.20.0",
     "@strapi/plugin-users-permissions": "4.20.0",
+    "@strapi/provider-email-nodemailer": "^5.20.0",
+    "@strapi/provider-email-sendmail": "^5.20.0",
     "@strapi/strapi": "4.20.0",
     "better-sqlite3": "9.4.3",
     "react": "^18.3.1",
